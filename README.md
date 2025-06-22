@@ -10,9 +10,9 @@
 ![Linux](https://img.shields.io/badge/Linux-%23593d88.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=Docker&logoColor=%23F7DF1E)
 
-### Проекты:
+### &#128188 Проекты:
 
-## API сервис для  блогов
+## [API сервис для  блогов](https://github.com/ArtemYagodkin/foodgram.git)
 
 Разработал платформу для блогов. Платформа предполагает возможность зарегистрироваться, создать, отредактировать или удалить собственный пост, прокомментировать пост другого автора и подписаться на него. Реализован на REST API CRUD для основных моделей проекта. Для аутентификации применяются JWT-токены.
 Python, Django, Django Rest Framework, Pytest, Simple JWT
