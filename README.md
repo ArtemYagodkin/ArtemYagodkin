@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### &#128736; Стек:
-![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
 ![Django Framework](https://img.shields.io/badge/Django_Framework-%2300758F.svg?style=for-the-badge&logo=next&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
