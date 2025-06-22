@@ -5,7 +5,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-%23007ACC.svg?style=for-the-badge&logo=Gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23323330.svg?style=for-the-badge&logo=Nginx&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-%23593d88.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=Docker&logoColor=%23F7DF1E)
